@@ -60,10 +60,7 @@ Download the `.ova` file from this link:
 1. Select the VM from the left pane in VirtualBox.
 2. Click **Start**.
 3. Wait for the VM to open.
-4. Login using:
-
-- **Username**: `kiwilytics`
-- **Password**: `kiwilytics`
+4. Login.
 ---
 
 ## 🧑‍🎓 Audience
