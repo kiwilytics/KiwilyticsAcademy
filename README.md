@@ -46,7 +46,8 @@ Download the `.ova` file from this link:
 4. Click **Next**, then **Finish**.
 5. Wait for the VM box to Import the image, This could take a **While**.
 
-📸 ![image](https://github.com/user-attachments/assets/9ce012f1-2b05-4a77-8438-9235665a2a3c)
+<img width="788" height="717" alt="image" src="https://github.com/user-attachments/assets/04ac368f-a7ed-4766-9022-55a48ceb5507" />
+
 
 📸 ![image](https://github.com/user-attachments/assets/6adcf036-8e05-44c2-894b-7a855924d807)
 
