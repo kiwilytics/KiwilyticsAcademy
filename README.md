@@ -122,8 +122,8 @@ Then open your browser locally or inside the virtual machine and go to: [http://
 - **Username**: `kiwilytics`
 - **Password**: `kiwilytics`
 
-📸 _**![image](https://github.com/user-attachments/assets/22385cba-644f-4f6f-8b96-464b8fa5f735)
-**_
+<img width="1885" height="850" alt="image" src="https://github.com/user-attachments/assets/76b7ec95-9016-4b19-83e9-01c77b94e014" />
+
 
 ---
 
@@ -140,8 +140,8 @@ Our database is already connected to DBeaver inside the Virtual Machine
 - **Username**: `kiwilytics`
 - **Password**: `kiwilytics`
 
-📸 _**![image](https://github.com/user-attachments/assets/adc2398f-6e69-47b3-91a4-34f9a753f2c7)
-**_
+<img width="759" height="759" alt="image" src="https://github.com/user-attachments/assets/7192839e-42e9-496b-8d57-99b68fdb3af0" />
+
 
 ---
 
