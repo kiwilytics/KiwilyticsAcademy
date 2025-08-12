@@ -57,7 +57,8 @@ Download the `.ova` file from this link:
 ---
 
 ## ▶️ Step 4: Start the Virtual Machine
-📸![image](https://github.com/user-attachments/assets/457a9a38-5e87-4174-8f94-08867ffb7e5c)
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a83f9d45-6f51-498d-9109-148099f89a69" />
+
 
 1. Select the VM from the left pane in VirtualBox.
 2. Click **Start**.
