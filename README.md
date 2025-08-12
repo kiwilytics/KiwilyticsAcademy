@@ -34,8 +34,6 @@ Download the `.ova` file from this link:
 
 💡 Make sure you verify the download is complete 
 
-📸 _**(Insert screenshot of the download button or location)**_
-
 ---
 
 ## 📦 Step 3: Import the VM into VirtualBox
