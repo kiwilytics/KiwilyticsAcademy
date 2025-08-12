@@ -30,7 +30,7 @@ Download and install VirtualBox from the official website:
 
 Download the `.ova` file from this link:
 
-🔗 **[[Insert your download link here]](https://drive.google.com/file/d/1wMbJtg8a0ZnH4TzbfxXg9KIMLwBlL7O2/view?usp=share_link)**
+🔗 **[[Go to download the VM]](https://drive.google.com/file/d/1wMbJtg8a0ZnH4TzbfxXg9KIMLwBlL7O2/view?usp=share_link)**
 
 💡 Make sure you verify the download is complete 
 
