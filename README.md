@@ -22,7 +22,7 @@ Download and install VirtualBox from the official website:
 
 ✅ **Choose the correct version for your operating system**
 
-![image](https://github.com/user-attachments/assets/67d258ae-6c91-406a-a4c3-0b45a21a618b)
+<img width="1855" height="842" alt="image" src="https://github.com/user-attachments/assets/8c2e807a-be0a-4941-bf91-76d1ac989467" />
 
 ---
 
