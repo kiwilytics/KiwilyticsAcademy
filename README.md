@@ -49,7 +49,8 @@ Download the `.ova` file from this link:
 <img width="788" height="717" alt="image" src="https://github.com/user-attachments/assets/04ac368f-a7ed-4766-9022-55a48ceb5507" />
 
 
-📸 ![image](https://github.com/user-attachments/assets/6adcf036-8e05-44c2-894b-7a855924d807)
+<img width="1600" height="297" alt="image" src="https://github.com/user-attachments/assets/9dce3150-5173-41f0-a119-6749ebe1f023" />
+
 
 💡 This will create a new VM named **Kiwilytics_VM**
 
