@@ -1,0 +1,246 @@
+OrderID,CustomerID,OrderDate,ShippedDate,ShippingCost,ShipCountry,ShipCity,ShippingCompany
+1000.0,C001,2025-05-17,2025-07-30,-57.25454602444980,Germany,Hamburg,Kiwilytics Goods Shipping LLC.
+1001.0,C002,2025-01-26,2025-07-30,320.61,Canada,Montreal,UPS Worldwide
+1002.0,C003,2025-03-08,2025-07-30,165.17,Canada,Vancouver,FedEx Logistics
+1003.0,C004,2025-03-24,2025-07-30,12.55,Germany,Munich,Aramex International
+1004.0,C005,2025-04-15,2025-07-30,186.36,Canada,Vancouver,FedEx Logistics
+1005.0,C006,2024-12-24,2025-07-30,74.93,USA,New York,UPS Worldwide
+1006.0,C007,,2025-07-30,229.93,USA,Los Angeles,Aramex International
+1007.0,C008,2024-08-10,2025-07-30,209.94,Germany,Berlin,Aramex International
+1008.0,C009,2025-02-06,2025-07-30,NaN,USA,Houston,DHL Express
+1009.0,C010,not_a_date,2025-07-30,394.37,USA,Chicago,Kiwilytics Goods Shipping LLC.
+1010.0,C011,2024-12-03,2025-07-30,16.05,Germany,,Aramex International
+1011.0,C012,2024-10-08,2025-07-30,391.79,Canada,Vancouver,DHL Express
+1012.0,C013,,2025-07-30,284.17,Canada,Vancouver,Kiwilytics Goods Shipping LLC.
+1013.0,C014,2025-02-04,2025-07-30,128.94,USA,New York,DHL Express
+1014.0,C015,2024-10-20,,345.8,Canada,Montreal,FedEx Logistics
+1015.0,,2024-12-14,2025-07-30,141.77,Canada,Toronto,FedEx Logistics
+1016.0,C017,2025-06-04,2025-07-30,81.51,Germany,Munich,Kiwilytics Goods Shipping LLC.
+1017.0,C018,2024-11-07,2025-07-30,145.22,USA,Chicago,DHL Express
+1018.0,C019,2024-12-09,2025-07-30,393.51,Egypt,Giza,UPS Worldwide
+1019.0,C020,2024-11-15,2025-07-30,NaN,USA,Chicago,DHL Express
+1020.0,C021,2025-07-06,2025-08-29 00:00:00,252.94,UK,Manchester,UPS Worldwide
+1021.0,C022,2025-03-18,2025-07-30,234.35,Canada,Toronto,Aramex International
+1022.0,C023,2025-04-28,,13.32,Egypt,Giza,Aramex International
+1023.0,C024,2025-07-06,2025-07-30,422.39,Egypt,Giza,Aramex International
+1024.0,C025,not_a_date,2025-07-30,432.48,UK,London,DHL Express
+1025.0,C026,2025-03-02,2025-07-30,221.0,Germany,Hamburg,Kiwilytics Goods Shipping LLC.
+1026.0,C027,2024-08-02,2025-07-30,329.01,Germany,Munich,UPS Worldwide
+1027.0,C028,2025-02-15,2025-07-30,157.21,Canada,Montreal,DHL Express
+1028.0,C029,2024-10-12,2025-07-30,350.69,Germany,Berlin,Aramex International
+1029.0,C030,2024-09-01,2025-07-30,97.04,Egypt,Alexandria,FedEx Logistics
+1030.0,C001,not_a_date,2025-07-30,bad_value,UK,London,Aramex International
+1031.0,C002,2024-10-31,2025-07-30,320.12,Canada,Montreal,Kiwilytics Goods Shipping LLC.
+1032.0,C003,2025-05-05,2025-07-30,393.17,USA,Houston,Aramex International
+1033.0,C004,2025-01-03,2025-07-30,,Germany,Berlin,Kiwilytics Goods Shipping LLC.
+1034.0,C005,2025-02-04,,188.86,Canada,Montreal,FedEx Logistics
+1035.0,C006,2025-03-02,2025-07-30,107.9,UK,Liverpool,UPS Worldwide
+1036.0,C007,2025-05-20,2025-07-30,98.16,Canada,Montreal,Aramex International
+1037.0,C008,not_a_date,2025-07-30,23.19,Germany,Berlin,Kiwilytics Goods Shipping LLC.
+1038.0,C009,2024-10-31,2025-07-30,472.06,Egypt,Cairo,UPS Worldwide
+1039.0,C010,2025-04-24,,400.87,UK,Liverpool,FedEx Logistics
+1040.0,C011,2025-01-30,2025-07-30,43.89,USA,Los Angeles,Kiwilytics Goods Shipping LLC.
+1041.0,C012,2025-04-06,2025-07-30,399.57,UK,Manchester,FedEx Logistics
+1042.0,C013,2025-05-02,2025-07-30,78.2,Canada,Montreal,FedEx Logistics
+1043.0,C014,2025-02-05,2025-07-30,133.81,USA,Chicago,DHL Express
+1044.0,C015,2025-01-20,,217.33,Palestine,Gaza,UPS Worldwide
+,C016,2025-06-02,2025-08-05 00:00:00,230.04,UK,London,DHL Express
+1046.0,C017,2024-08-05,2024-09-14 00:00:00,295.3,Canada,Montreal,FedEx Logistics
+1047.0,C018,2024-09-04,2025-07-30,462.51,USA,Chicago,Kiwilytics Goods Shipping LLC.
+1048.0,C019,2024-11-21,,214.97,UK,London,Aramex International
+1049.0,C020,2024-10-24,2025-07-30,,USA,New York,DHL Express
+1050.0,C021,2025-01-03,2025-07-30,273.08,Palestine,Gaza,Aramex International
+1051.0,C022,2025-04-24,2025-07-30,51.64,Egypt,Cairo,DHL Express
+1052.0,C023,2024-11-01,2025-07-30,332.22,Egypt,Alexandria,UPS Worldwide
+1053.0,C024,2024-11-25,2025-07-30,327.03,Palestine,Al Quds,Aramex International
+1054.0,C025,2025-04-13,2025-07-30,,Germany,Munich,DHL Express
+1055.0,C026,2025-03-12,2025-07-30,483.74,USA,Houston,FedEx Logistics
+1056.0,C027,2024-12-20,2025-07-30,400.15,Germany,Hamburg,Kiwilytics Goods Shipping LLC.
+1057.0,C028,2025-01-29,2025-07-30,58.32,Canada,Toronto,FedEx Logistics
+1058.0,C029,2025-03-01,2025-07-30,375.96,Egypt,Cairo,UPS Worldwide
+1059.0,C030,2025-02-21,2025-07-30,346.96,USA,Chicago,UPS Worldwide
+1060.0,C001,2024-12-10,2025-07-30,193.32,Palestine,Al Quds,DHL Express
+1061.0,C002,2025-01-11,2025-07-30,342.98,UK,London,FedEx Logistics
+1062.0,C003,2025-05-15,2025-07-30,83.87,USA,Chicago,Aramex International
+1063.0,C004,2025-02-28,2025-07-30,246.56,Canada,Vancouver,DHL Express
+1064.0,C005,2024-12-05,2025-07-30,461.07,Palestine,Al Quds,DHL Express
+1065.0,C006,2024-12-13,2025-07-30,417.35,USA,New York,FedEx Logistics
+1066.0,,2025-04-28,2025-07-30,180.68,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1067.0,C008,2025-01-22,,394.29,Germany,Munich,UPS Worldwide
+1068.0,C009,2024-11-12,2025-07-30,180.67,USA,Houston,Aramex International
+1069.0,C010,2024-11-26,2025-07-30,363.78,Canada,Montreal,UPS Worldwide
+1070.0,C011,2024-11-04,2025-07-30,42.92,Palestine,Al Quds,DHL Express
+1071.0,C012,2024-10-27,2025-07-30,NaN,USA,New York,Kiwilytics Goods Shipping LLC.
+1072.0,C013,2024-09-14,2025-07-30,327.51,UK,London,DHL Express
+1073.0,C014,2025-05-06,2025-07-30,90.53,Canada,,Kiwilytics Goods Shipping LLC.
+1074.0,C015,2024-10-12,2025-07-30,129.52,Germany,Hamburg,FedEx Logistics
+1075.0,C016,2024-11-29,2025-07-30,88.47,Germany,Munich,UPS Worldwide
+1076.0,C017,2024-09-14,2025-07-30,479.65,UK,Manchester,DHL Express
+1077.0,C018,2025-05-14,2025-07-30,208.47,Canada,Toronto,Kiwilytics Goods Shipping LLC.
+1078.0,C019,2025-02-23,2025-07-30,323.83,USA,Houston,Kiwilytics Goods Shipping LLC.
+1079.0,C020,2025-05-22,2025-07-30,24.3,Germany,Hamburg,DHL Express
+1080.0,C021,2025-04-24,2025-06-27 00:00:00,106.69,Egypt,Cairo,UPS Worldwide
+1081.0,C022,2024-10-09,2025-07-30,200.53,USA,Chicago,FedEx Logistics
+,C023,2024-10-12,2025-07-30,110.83,USA,Houston,FedEx Logistics
+1083.0,C024,2024-10-22,2025-07-30,406.28,USA,Chicago,Aramex International
+1084.0,C025,2025-05-12,2025-07-30,,Germany,Munich,Aramex International
+1085.0,C026,2025-02-03,2025-03-23 00:00:00,169.73,Canada,Toronto,Aramex International
+1086.0,C027,2024-11-14,2025-07-30,138.55,Palestine,Gaza,UPS Worldwide
+1087.0,C028,2025-05-07,2025-07-30,268.58,Canada,Montreal,Aramex International
+1088.0,C029,2025-03-15,2025-07-30,302.52,UK,London,Aramex International
+1089.0,C030,2025-05-21,2025-07-30,297.63,Egypt,Cairo,UPS Worldwide
+1090.0,C001,2025-02-18,2025-07-30,424.3,UK,Manchester,Aramex International
+1091.0,C002,2025-03-18,,408.73,Palestine,Gaza,FedEx Logistics
+1092.0,C003,2024-11-16,,155.75,UK,London,DHL Express
+1093.0,C004,2024-09-07,2025-07-30,51.53,Germany,Munich,FedEx Logistics
+1094.0,C005,2025-06-18,2025-07-30,67.75,Canada,Vancouver,FedEx Logistics
+1095.0,C006,2024-10-13,2025-07-30,99.69,Egypt,Alexandria,Kiwilytics Goods Shipping LLC.
+1096.0,C007,2024-11-22,2025-07-30,260.3,Canada,Vancouver,DHL Express
+1097.0,C008,2024-10-26,2025-07-30,77.55,USA,Chicago,FedEx Logistics
+1098.0,C009,2024-12-17,2025-07-30,101.02,Palestine,Gaza,DHL Express
+1099.0,C010,2024-10-07,2025-07-30,349.78,UK,London,FedEx Logistics
+1100.0,C011,,2025-07-30,499.95,UK,Liverpool,UPS Worldwide
+1101.0,C012,,2025-07-30,249.92,USA,Los Angeles,UPS Worldwide
+1102.0,C013,2024-08-04,2025-07-30,164.14,USA,New York,Aramex International
+1103.0,C014,2025-04-30,2025-07-30,36.27,UK,Liverpool,UPS Worldwide
+1104.0,C015,2025-02-22,,14.7,Palestine,Gaza,DHL Express
+1105.0,C016,2024-09-17,2025-07-30,409.46,Canada,Montreal,Kiwilytics Goods Shipping LLC.
+1106.0,C017,2024-11-13,2025-07-30,257.66,USA,Houston,Aramex International
+1107.0,C018,2024-08-16,2025-07-30,345.5,Germany,Munich,FedEx Logistics
+1108.0,C019,2024-08-20,2025-07-30,421.55,Germany,Hamburg,UPS Worldwide
+1109.0,C020,2025-03-01,2025-07-30,-40.5,Egypt,Giza,Aramex International
+1110.0,C021,2024-11-20,2025-07-30,-153.4060406163580,Palestine,Gaza,UPS Worldwide
+1111.0,C022,2025-04-26,2025-07-30,-48.84446624542530,UK,London,Aramex International
+1112.0,C023,2024-09-17,2025-07-30,234.09,Egypt,Giza,DHL Express
+1113.0,C024,2025-04-03,2025-07-30,385.3,USA,Los Angeles,DHL Express
+1114.0,C025,2025-07-02,2025-07-30,65.47,Palestine,Gaza,FedEx Logistics
+1115.0,C026,2025-05-18,2025-07-30,389.81,Canada,Toronto,Aramex International
+1116.0,C027,2025-02-05,2025-07-30,189.76,Canada,Toronto,Kiwilytics Goods Shipping LLC.
+,C028,2024-09-07,2025-07-30,30.39,Palestine,Gaza,DHL Express
+1118.0,C029,2025-07-03,2025-07-30,277.71,Egypt,Cairo,FedEx Logistics
+1119.0,C030,2024-08-03,2025-07-30,60.18,Egypt,Cairo,Aramex International
+1120.0,C001,2025-03-09,2025-07-30,378.16,Palestine,Gaza,FedEx Logistics
+1121.0,C002,,,499.66,UK,Manchester,DHL Express
+1122.0,C003,2024-11-17,2025-07-30,180.8,USA,New York,FedEx Logistics
+1123.0,C004,2025-01-28,2025-07-30,225.14,Egypt,Giza,Aramex International
+1124.0,C005,not_a_date,2025-07-30,390.06,Egypt,Giza,UPS Worldwide
+1125.0,C006,2025-01-17,2025-07-30,407.24,UK,Manchester,Kiwilytics Goods Shipping LLC.
+1126.0,C007,2024-12-09,,181.81,Palestine,Gaza,DHL Express
+1127.0,C008,2024-10-09,2025-07-30,320.06,USA,Houston,Aramex International
+1128.0,C009,2024-08-18,,78.23,USA,Houston,Aramex International
+1129.0,C010,2024-11-05,2025-07-30,111.4,Canada,Toronto,FedEx Logistics
+1130.0,C011,2025-07-30,2025-07-30,-73.40901839580200,Germany,Hamburg,DHL Express
+1131.0,C012,2025-06-29,2025-07-30,92.5,Germany,Berlin,UPS Worldwide
+1132.0,C013,2025-01-31,2025-07-30,153.39,USA,New York,UPS Worldwide
+1133.0,C014,2024-09-12,2025-07-30,476.67,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1134.0,C015,2025-06-14,2025-07-30,451.08,UK,Manchester,Kiwilytics Goods Shipping LLC.
+1135.0,C016,2024-08-24,2025-07-30,76.44,Palestine,Gaza,FedEx Logistics
+1136.0,C017,2025-01-01,2025-07-30,211.68,Egypt,Giza,DHL Express
+1137.0,C018,2025-02-05,2025-07-30,,Germany,Munich,UPS Worldwide
+1138.0,C019,2024-08-27,2025-07-30,434.38,USA,Los Angeles,DHL Express
+1139.0,C020,2025-03-11,2025-07-30,358.58,UK,Manchester,FedEx Logistics
+1140.0,C021,2025-03-31,2025-07-30,383.12,Canada,Montreal,DHL Express
+1141.0,C022,2025-04-22,2025-07-30,249.83,Germany,Hamburg,DHL Express
+1142.0,,2024-08-19,2025-07-30,141.67,Egypt,Cairo,DHL Express
+1143.0,C024,2024-09-26,2025-07-30,231.48,Egypt,Alexandria,FedEx Logistics
+1144.0,C025,2024-09-25,2025-07-30,441.26,Canada,Toronto,FedEx Logistics
+1145.0,C026,2025-06-10,2025-07-30,262.65,Egypt,Alexandria,FedEx Logistics
+1146.0,,2025-03-05,2025-07-30,468.8,UK,London,UPS Worldwide
+1147.0,C028,2024-11-24,2025-07-30,475.62,UK,Manchester,Aramex International
+1148.0,C029,,2025-07-30,11.21,UK,Manchester,DHL Express
+1149.0,C030,2024-09-01,2025-07-30,369.03,Egypt,Giza,Kiwilytics Goods Shipping LLC.
+1150.0,C001,2024-11-03,2025-07-30,234.64,USA,Los Angeles,Kiwilytics Goods Shipping LLC.
+1151.0,C002,2024-09-14,2025-07-30,185.53,Canada,Vancouver,Aramex International
+1152.0,C003,2025-03-03,,NaN,Egypt,Alexandria,DHL Express
+1153.0,C004,not_a_date,2025-07-30,414.18,UK,Liverpool,DHL Express
+1154.0,C005,2025-01-07,2025-07-30,168.2,Egypt,Giza,DHL Express
+1155.0,C006,2025-03-22,2025-07-30,278.18,USA,Los Angeles,FedEx Logistics
+1156.0,C007,2025-03-18,2025-07-30,427.69,Egypt,,UPS Worldwide
+1157.0,C008,2025-06-02,2025-07-30,448.14,Egypt,Giza,FedEx Logistics
+1158.0,C009,2025-03-27,,32.51,Egypt,Giza,DHL Express
+1159.0,C010,2024-10-25,2025-07-30,419.98,UK,,Aramex International
+1160.0,C011,2025-05-27,2025-07-30,NaN,Germany,Berlin,DHL Express
+1161.0,C012,2025-02-17,2025-04-04 00:00:00,10.33,USA,Chicago,DHL Express
+1162.0,C013,2024-12-24,2025-07-30,109.14,Germany,Munich,UPS Worldwide
+1163.0,C014,not_a_date,2025-07-30,74.64,Canada,Montreal,DHL Express
+1164.0,C015,2025-01-20,2025-07-30,87.9,Germany,Berlin,FedEx Logistics
+1165.0,C016,2025-07-17,,144.27,Canada,Toronto,Kiwilytics Goods Shipping LLC.
+1166.0,C017,2025-01-17,,132.69,Canada,Toronto,UPS Worldwide
+1167.0,C018,2024-11-22,2025-07-30,452.86,Canada,Toronto,UPS Worldwide
+1168.0,C019,2025-06-29,2025-07-30,204.21,Egypt,Cairo,UPS Worldwide
+1169.0,C020,2025-03-15,2025-07-30,352.73,UK,Liverpool,DHL Express
+1170.0,C021,2025-01-12,2025-07-30,331.19,Canada,Vancouver,UPS Worldwide
+1171.0,C022,2024-11-25,2025-07-30,10.53,UK,Manchester,UPS Worldwide
+,C023,2025-03-07,2025-07-30,75.02,Germany,Munich,FedEx Logistics
+1173.0,C024,2025-03-28,2025-07-30,343.19,USA,New York,Aramex International
+1174.0,C025,2024-08-22,2025-07-30,NaN,Canada,Vancouver,FedEx Logistics
+1175.0,C026,2025-03-23,2025-07-30,216.93,Egypt,Giza,FedEx Logistics
+1176.0,C027,2025-05-13,2025-07-30,44.71,Egypt,Cairo,Aramex International
+1177.0,C028,,2025-07-30,368.07,Egypt,Giza,Aramex International
+1178.0,C029,2025-05-22,2025-07-30,163.54,Germany,Munich,UPS Worldwide
+1179.0,C030,2024-10-18,2025-07-30,77.19,UK,London,FedEx Logistics
+1180.0,C001,2025-03-29,2025-07-30,379.05,UK,Liverpool,DHL Express
+1181.0,C002,2024-10-19,,496.54,USA,Chicago,Kiwilytics Goods Shipping LLC.
+1182.0,C003,2024-11-09,2025-07-30,269.95,USA,Houston,Kiwilytics Goods Shipping LLC.
+1183.0,C004,2025-04-12,2025-05-23 00:00:00,-131.75394156577200,USA,Los Angeles,Kiwilytics Goods Shipping LLC.
+1184.0,C005,not_a_date,2025-07-30,114.4,Germany,Berlin,FedEx Logistics
+1185.0,C006,2024-08-30,2025-07-30,460.75,Canada,Montreal,Aramex International
+1186.0,C007,2024-09-28,2025-07-30,226.77,Canada,Montreal,UPS Worldwide
+1187.0,C008,2024-10-31,,449.33,Canada,Vancouver,UPS Worldwide
+1188.0,C009,2024-10-05,,70.35,Egypt,Giza,Kiwilytics Goods Shipping LLC.
+1189.0,C010,2025-03-01,2025-07-30,182.25,USA,New York,UPS Worldwide
+1190.0,,2024-08-28,2025-07-30,397.63,Egypt,Cairo,DHL Express
+1191.0,C012,2024-09-28,2025-07-30,325.86,Canada,Montreal,DHL Express
+1192.0,C013,2024-07-31,2025-07-30,304.49,USA,Los Angeles,Aramex International
+1193.0,C014,not_a_date,,149.61,UK,Liverpool,UPS Worldwide
+1194.0,C015,2025-01-20,2025-07-30,23.14,UK,Liverpool,FedEx Logistics
+1195.0,C016,2025-04-23,2025-07-30,439.16,UK,Manchester,UPS Worldwide
+1196.0,C017,2025-03-17,2025-07-30,307.39,Egypt,Alexandria,FedEx Logistics
+1197.0,C018,2025-01-28,2025-07-30,201.96,Egypt,Alexandria,Kiwilytics Goods Shipping LLC.
+,C019,2024-11-20,2025-07-30,394.06,Canada,Vancouver,FedEx Logistics
+1199.0,C020,not_a_date,2025-07-30,127.28,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1200.0,C021,2024-10-27,2025-07-30,128.13,Germany,Hamburg,DHL Express
+1201.0,C022,2024-11-18,2025-07-30,44.8,Egypt,Giza,UPS Worldwide
+1202.0,C023,2025-04-30,2025-07-30,15.91,USA,New York,Aramex International
+1203.0,C024,2024-11-16,2025-07-30,165.07,Germany,Hamburg,UPS Worldwide
+1204.0,C025,2025-04-29,2025-07-30,421.1,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1205.0,C026,2025-06-28,2025-07-30,277.71,Germany,Hamburg,UPS Worldwide
+1206.0,C027,2025-01-22,2025-07-30,-15.0,UK,Manchester,Aramex International
+1207.0,C028,2024-08-26,2025-07-30,45.77,USA,Houston,Kiwilytics Goods Shipping LLC.
+1208.0,C029,2025-04-22,2025-07-30,16.76,USA,Chicago,Kiwilytics Goods Shipping LLC.
+1209.0,C030,2024-10-28,2025-07-30,462.06,UK,Liverpool,Aramex International
+1210.0,C001,2025-07-23,2025-07-30,205.01,UK,Manchester,UPS Worldwide
+,C002,2024-11-09,2025-07-30,359.19,UK,Liverpool,Aramex International
+1212.0,C003,,,217.55,UK,London,FedEx Logistics
+1213.0,C004,2025-06-02,2025-07-30,323.86,Canada,Montreal,DHL Express
+1214.0,C005,2025-03-29,2025-07-30,84.81,Canada,Toronto,Aramex International
+1215.0,C006,2025-03-16,2025-07-30,48.72,Germany,Munich,Kiwilytics Goods Shipping LLC.
+1216.0,C007,2025-04-12,2025-07-30,487.41,UK,Liverpool,FedEx Logistics
+1217.0,C008,2025-06-07,,170.11,Canada,Montreal,DHL Express
+1218.0,C009,2025-07-27,2025-07-30,383.98,USA,Houston,Aramex International
+1219.0,C010,2024-10-14,2025-07-30,325.15,UK,Manchester,DHL Express
+1220.0,C011,2025-01-11,2025-03-12 00:00:00,224.37,Egypt,Alexandria,UPS Worldwide
+1221.0,C012,2024-09-12,2025-07-30,126.93,Egypt,Giza,Kiwilytics Goods Shipping LLC.
+1222.0,C013,2025-02-26,2025-07-30,463.07,USA,Los Angeles,Aramex International
+1223.0,C014,2024-10-25,2025-07-30,310.03,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1224.0,C015,2025-04-07,2025-07-30,,Canada,Montreal,FedEx Logistics
+1225.0,C016,2024-09-25,2025-07-30,68.53,Germany,Hamburg,FedEx Logistics
+1226.0,C017,2025-07-17,2025-07-30,353.73,Egypt,Giza,DHL Express
+1227.0,C018,2024-11-10,,476.98,UK,Liverpool,FedEx Logistics
+1228.0,C019,2025-06-16,,393.66,UK,London,FedEx Logistics
+1229.0,C020,2024-09-23,2025-07-30,91.81,Germany,Berlin,Aramex International
+1230.0,C021,2024-08-26,,392.75,UK,London,Kiwilytics Goods Shipping LLC.
+1231.0,C022,2024-08-22,2025-07-30,444.34,Egypt,Cairo,DHL Express
+1232.0,C023,2024-10-02,2025-07-30,24.38,UK,Liverpool,FedEx Logistics
+1233.0,C024,2025-06-02,2025-07-30,143.27,Germany,Berlin,Kiwilytics Goods Shipping LLC.
+1234.0,C025,2024-11-26,2025-07-30,,UK,Liverpool,UPS Worldwide
+1235.0,C026,2025-03-18,2025-07-30,253.11,USA,Los Angeles,Aramex International
+1236.0,C027,2025-05-16,2025-07-30,37.17,UK,London,FedEx Logistics
+1237.0,C028,2025-06-15,2025-07-30,91.77,UK,Manchester,FedEx Logistics
+1238.0,C029,2025-03-08,2025-07-30,388.93,UK,Manchester,FedEx Logistics
+1239.0,C030,2025-07-22,2025-07-30,340.32,UK,Liverpool,Kiwilytics Goods Shipping LLC.
+1240.0,C001,2024-11-19,2025-07-30,372.98,UK,Manchester,Aramex International
+1241.0,C002,not_a_date,2025-07-30,NaN,USA,Houston,Aramex International
+1242.0,C003,2025-01-16,2025-07-30,241.16,USA,New York,Kiwilytics Goods Shipping LLC.
+1243.0,C004,2024-09-16,2025-07-30,83.54,Egypt,Cairo,DHL Express
+1244.0,C005,2025-01-28,2025-07-30,430.17,Germany,Berlin,Aramex International
